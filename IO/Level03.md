@@ -101,5 +101,5 @@ Conseguimos!
 
 ```
 cat /home/level4/.pass
-7WhHa5HWMNRAYl9T
+###############
 ```
